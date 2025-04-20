@@ -1,1 +1,1 @@
-# MULTI-SCALE BOUNDARY ENHANCED PSEUDO LABEL REFINEMENT FOR SEMI-SUPERVISED MEDICAL IMAGE SEGMENTATION (ISBI 2025)
+# Multi-Scale Boundary Enhanced Pseudo Label Refinement For Semi-Supervised Medical Image Segmentation (ISBI 2025)
