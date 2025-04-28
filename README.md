@@ -20,5 +20,8 @@ by Xingkuo Zhang, Hongjun Wu, Ren Chunxia, Yonggang Zhu, Le Feng, Li Xiao∗
  - `python ./code/test_ACDC.py`    
  - `python ./code/test_LA.py`
 
+## Cite
+Xingkuo Zhang, Hongjun Wu, Ren Chunxia, Yonggang Zhu, Le Feng, Li Xiao. Multi-Scale Boundary Enhanced Pseudo Label Refinement For Semi-Supervised Medical Image Segmentation, ISBI 2025.
+
 ## Acknowledgements
   Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
