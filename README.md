@@ -16,9 +16,10 @@ Data could be got at [LA](https://github.com/yulequan/UA-MT/tree/master/data) an
 To train a model,
   - `python ./code/ACDC_BCP_train.py`   
   - `python ./code/LA_BCP_train.py`
-To test a model,
-`python ./code/test_ACDC.py`    
-`python ./code/test_LA.py`
+    
+To test a model, 
+ - `python ./code/test_ACDC.py`    
+ - `python ./code/test_LA.py`
 
 ## Acknowledgements
 Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
