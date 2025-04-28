@@ -8,6 +8,10 @@ This repository is based on PyTorch 1.13.0, CUDA 11.7 and Python 3.9.19. All exp
 ```conda create -n MBPLR python=3.9.19```  
 `conda activate MBPLR`  
 `pip install -r requirements.txt`
+
+## Data
+Data could be got at [LA](https://github.com/yulequan/UA-MT/tree/master/data) and [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC).
+
 ## Usage
 To train a model,
 `python ./code/ACDC_BCP_train.py`  
