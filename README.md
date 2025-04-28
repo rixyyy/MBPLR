@@ -1,13 +1,14 @@
 # Multi-Scale Boundary Enhanced Pseudo Label Refinement For Semi-Supervised Medical Image Segmentation (ISBI 2025)
 by Xingkuo Zhang, Hongjun Wu, Ren Chunxia, Yonggang Zhu, Le Feng, Li Xiao∗
 ## Installation
-`git clone https://github.com/rixyyy/MBPLR.git`  
+At first,  
+ - `git clone https://github.com/rixyyy/MBPLR.git`  
   
 This repository is based on PyTorch 1.13.0, CUDA 11.7 and Python 3.9.19. All experiments in our paper were conducted on NVIDIA GeForce RTX 4090 GPU with an identical experimental setting. 
   
-```conda create -n MBPLR python=3.9.19```  
-`conda activate MBPLR`  
-`pip install -r requirements.txt`
+ - ```conda create -n MBPLR python=3.9.19```  
+ - `conda activate MBPLR`  
+ - `pip install -r requirements.txt`
 
 ## Data
 Data could be got at [LA](https://github.com/yulequan/UA-MT/tree/master/data) and [ACDC](https://github.com/HiLab-git/SSL4MIS/tree/master/data/ACDC).
